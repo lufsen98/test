@@ -1,0 +1,7 @@
+/Users/ludvignorin/pico/test/build/pioasm/CMakeFiles/pioasm.dir
+/Users/ludvignorin/pico/test/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/ludvignorin/pico/test/build/pioasm/CMakeFiles/rebuild_cache.dir
+/Users/ludvignorin/pico/test/build/pioasm/CMakeFiles/list_install_components.dir
+/Users/ludvignorin/pico/test/build/pioasm/CMakeFiles/install.dir
+/Users/ludvignorin/pico/test/build/pioasm/CMakeFiles/install/local.dir
+/Users/ludvignorin/pico/test/build/pioasm/CMakeFiles/install/strip.dir
